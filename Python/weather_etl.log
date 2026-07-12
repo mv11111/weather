@@ -1,0 +1,12 @@
+2026-07-10 06:08:39 - ERROR - No such comm target registered: jupyter.widget.control
+2026-07-10 06:08:39 - WARNING - No such comm: 9f10cf87-e11d-464d-a770-112cd8f47bfd
+2026-07-10 06:11:05 - ERROR - No such comm target registered: jupyter.widget.control
+2026-07-10 06:11:05 - WARNING - No such comm: 2ac3ab21-ea6b-44d7-ade7-2f5003957539
+2026-07-10 06:11:27 - ERROR - SQL Server error for Weather datamart ETL: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'dbo.PROC_FACT_WEATHER_FORECAS'. (2812) (SQLExecDirectW)")
+2026-07-10 06:11:27 - INFO - NumExpr defaulting to 16 threads.
+2026-07-11 08:40:33 - INFO - NumExpr defaulting to 16 threads.
+2026-07-11 08:47:35 - INFO - NumExpr defaulting to 16 threads.
+2026-07-12 11:42:18 - INFO - NumExpr defaulting to 16 threads.
+2026-07-12 12:00:59 - ERROR - SQL Server error for Weather datamart ETL: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Could not find stored procedure 'dbo.PROC_POPULATE_DIM_LOCATION'. (2812) (SQLExecDirectW)")
+2026-07-12 12:00:59 - INFO - NumExpr defaulting to 16 threads.
+2026-07-12 12:04:03 - INFO - NumExpr defaulting to 16 threads.
